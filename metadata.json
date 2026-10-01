@@ -1,0 +1,6 @@
+{
+  "name": "GitDeploy Studio",
+  "description": "Upload and deploy ZIP archives directly to your GitHub account, create repositories, inspect project code trees, and push with full Git integrity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
